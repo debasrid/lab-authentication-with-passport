@@ -1,6 +1,21 @@
 body {
-  padding: 50px;
+  
+  padding: 50px;  
+  text-align: center;
+  
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; }
+  
+form{
+  margin: auto;
+  text-align: center;
+  border-style: dashed;
+  padding-top: 150px;
+  color: white;
+  height: 400px;
+  width: 600px;
+  background-color: rgb(24, 53, 92);
+
+  }
 
 a {
   color: #00B7FF; }
